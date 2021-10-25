@@ -1,1 +1,1 @@
-# register-of.products
+# Register of products
