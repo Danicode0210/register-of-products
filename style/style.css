@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 225, 52);
+}
+
+.img-product{
+    max-width: 242px;
+}
+
+footer{
+    background-color: rgb(20, 0, 110);
+}
+.navbar{
+    position: sticky;
+    top: 0px;
+    z-index: 2000;
+}
+nav button{
+    margin-right: 1em;
+}

@@ -1,16 +1,46 @@
 {
-    "products": [
-        {
-                "description": "Celular Huawei Y7" ,
-                "category":"Celulares",
-                "price":10000,
-                "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqoERSXuwafDL1Wz6PF1o5MMsnBs5sKDTUgQxn-KEyN6d-IKoXwi5GEhyoLMz3cDSTwOdXhJYX7w&usqp=CAc"
-        },
-        {
-            "description": "Televisor Samsung" ,
-            "category":"Televisores",
-            "price":10000,
-            "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqoERSXuwafDL1Wz6PF1o5MMsnBs5sKDTUgQxn-KEyN6d-IKoXwi5GEhyoLMz3cDSTwOdXhJYX7w&usqp=CAc"
+  "products": [
+    {
+      "id": 1,
+      "description": "Celular Huawei Y7",
+      "category": "Celulares",
+      "price": 10000,
+      "image": "https://i.ibb.co/b3sgMf4/huawei-ale-l04-white-p8-lite-ale-l04-16gb-1433289007-1155357.jpg"
+    },
+    {
+      "id": 2,
+      "description": "Televisor Samsung",
+      "category": "Televisores",
+      "price": 10000,
+      "image": "https://i.ibb.co/x1bxspg/176640-800-auto.webp"
+    },
+    {
+      "id": 3,
+      "description": "Laptop Asus",
+      "category": "Computadores",
+      "price": 10000,
+      "image": "https://i.ibb.co/HnbWsnY/asus-g513qc-bb74-g15-ryzen-7-5800h-1623842445-1633645.jpg"
+    },
+    {
+      "id": 4,
+      "description": "Ipad Apple",
+      "category": "Tablets",
+      "price": 10000,
+      "image": "https://i.ibb.co/L9mn70y/1631655417000-IMG-1610680.jpg"
+    },
+    {
+      "id": 5,
+      "description": "Televisor Samsung",
+      "category": "Celulares",
+      "price": 10000,
+      "image": "https://i.ibb.co/H4NvNnd/1609992622000-IMG-1468173.jpg"
+    },
+    {
+      "description": "Televisor Kalley ",
+      "category": "Televisores ",
+      "price": "1500000",
+      "image": "https://i.ibb.co/5kG6vrJ/download.jpg",
+      "id": 6
     }
-    ]
+  ]
 }
